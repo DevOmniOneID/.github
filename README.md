@@ -19,16 +19,16 @@ Furthermore, we will establish a Self-Sovereign Identity (SSI) system for margin
 ### Demo 
 [OmniOne Open DID Demo-App](https://omnioneid.github.io/did-demo-app)  /  [OmniOne Open DID Demo-Server](https://github.com/OmniOneID/did-demo-server)
 
-### Repositories
-![OmniOne Open DID Repositories Overview](./repositories_overview.png)
-
 ### Educational Videos
 | Lecture | English | Korean | YouTube Link |
 |---------|---------|--------|--------------|
-| Lecture 1 | [Lecture 1] Introduction to DID Basics | [1강] DID 기본 개념 | [🎬 EN](https://www.youtube.com/watch?v=59FRLpMAS2w) / [🎬 KR](https://www.youtube.com/watch?v=98qFzeEC55Y) |
-| Lecture 2 | [Lecture 2] Open DID Platform Components | [2강] Open DID 플랫폼 구성요소 | [🎬 EN]() / [🎬 KR]() |
-| Lecture 3 | [Lecture 3] Trusted Environment in Open DID | [3강] Open DID 신뢰환경 | [🎬 EN]() / [🎬 KR]() |
-| Lecture 4 | [Lecture 4] User Registration in Open DID | [4강] 사용자 등록 | [🎬 EN]() / [🎬 KR]() |
-| Lecture 5 | [Lecture 5] VC Issuance in Open DID | [5강] VC 발급 | [🎬 EN]() / [🎬 KR]() |
-| Lecture 6 | [Lecture 6] VP Submission in Open DID | [6강] VP 제출 | [🎬 EN]() / [🎬 KR]() |
-| Appendix | [Appendix] Open DID GitHub Repository Structure | [부록] Open DID GitHub Repository 구성 및 소개 | [🎬 EN]() / [🎬 KR]() |
+| [Lecture 1](https://opendid.omnione.net/community/detail?idx=1037) | [Lecture 1] Introduction to DID Basics | [1강] DID 기본 개념 | [🎬 EN](https://www.youtube.com/watch?v=59FRLpMAS2w) / [🎬 KR](https://www.youtube.com/watch?v=98qFzeEC55Y) |
+| [Lecture 2](https://opendid.omnione.net/community/detail?idx=1037) | [Lecture 2] Open DID Platform Components | [2강] Open DID 플랫폼 구성요소 | [🎬 EN]() / [🎬 KR]() |
+| [Lecture 3](https://opendid.omnione.net/community/detail?idx=1037) | [Lecture 3] Trusted Environment in Open DID | [3강] Open DID 신뢰환경 | [🎬 EN]() / [🎬 KR]() |
+| [Lecture 4](https://opendid.omnione.net/community/detail?idx=1037) | [Lecture 4] User Registration in Open DID | [4강] 사용자 등록 | [🎬 EN]() / [🎬 KR]() |
+| [Lecture 5](https://opendid.omnione.net/community/detail?idx=1037) | [Lecture 5] VC Issuance in Open DID | [5강] VC 발급 | [🎬 EN]() / [🎬 KR]() |
+| [Lecture 6](https://opendid.omnione.net/community/detail?idx=1037) | [Lecture 6] VP Submission in Open DID | [6강] VP 제출 | [🎬 EN]() / [🎬 KR]() |
+| [Appendix](https://opendid.omnione.net/community/detail?idx=1037) | [Appendix] Open DID GitHub Repository Structure | [부록] Open DID GitHub Repository 구성 및 소개 | [🎬 EN]() / [🎬 KR]() |
+
+### Repositories
+![OmniOne Open DID Repositories Overview](./repositories_overview.png)
