@@ -14,21 +14,13 @@ Furthermore, we will establish a Self-Sovereign Identity (SSI) system for margin
 [OmniOne Open DID Discord](https://discord.gg/vYJ3nv9ZK4)
 
 ### Document
-[OmniOne Open DID Document](https://omnioneid.github.io/?locale=en&version=V1.0.0#/)
+[OmniOne Open DID Document](https://omnioneid.github.io/?locale=en/)
 
 ### Demo 
 [OmniOne Open DID Demo-App](https://omnioneid.github.io/did-demo-app)  /  [OmniOne Open DID Demo-Server](https://github.com/OmniOneID/did-demo-server)
 
-### Educational Videos
-| Lecture | English | Korean | YouTube Link |
-|---------|---------|--------|--------------|
-| [Lecture 1](https://opendid.omnione.net/community/detail?idx=1037) | [Lec 1] Introduction to DID Basics | [1강] DID 기본 개념 | [🎬 EN](https://www.youtube.com/watch?v=59FRLpMAS2w) / [🎬 KR](https://www.youtube.com/watch?v=98qFzeEC55Y) |
-| [Lecture 2](https://opendid.omnione.net/community/detail?idx=1037) | [Lec 2] Open DID Platform Components | [2강] Open DID 플랫폼 구성요소 | [🎬 EN]() / [🎬 KR]() |
-| [Lecture 3](https://opendid.omnione.net/community/detail?idx=1037) | [Lec 3] Trusted Environment in Open DID | [3강] Open DID 신뢰환경 | [🎬 EN]() / [🎬 KR]() |
-| [Lecture 4](https://opendid.omnione.net/community/detail?idx=1037) | [Lec 4] User Registration in Open DID | [4강] 사용자 등록 | [🎬 EN]() / [🎬 KR]() |
-| [Lecture 5](https://opendid.omnione.net/community/detail?idx=1037) | [Lec 5] VC Issuance in Open DID | [5강] VC 발급 | [🎬 EN]() / [🎬 KR]() |
-| [Lecture 6](https://opendid.omnione.net/community/detail?idx=1037) | [Lec 6] VP Submission in Open DID | [6강] VP 제출 | [🎬 EN]() / [🎬 KR]() |
-| [Appendix](https://opendid.omnione.net/community/detail?idx=1037) | [App] Open DID GitHub Repository Structure | [부록] Open DID GitHub Repository 구성 및 소개 | [🎬 EN]() / [🎬 KR]() |
+### Lectures
+[OmniOne Open DID Lecture Series - English](https://shlee1223.github.io/?locale=en&version=V2.0.0#/V2.0.0/LECTURES) / [OmniOne Open DID Lecture Series - Korean](https://shlee1223.github.io/?locale=ko&version=V2.0.0#/V2.0.0/LECTURES_ko)
 
 ### Repositories
 ![OmniOne Open DID Repositories Overview](./repositories_overview.png)
