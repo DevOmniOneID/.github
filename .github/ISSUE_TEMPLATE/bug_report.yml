@@ -1,0 +1,65 @@
+name: 🐛 Bug Report
+description: 버그를 신고해 주세요
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        버그 신고해 주셔서 감사합니다! 아래 항목을 채워주시면 빠르게 확인하겠습니다.
+        
+        /cc @DevOmniOneID/Dev1
+
+  - type: input
+    id: environment
+    attributes:
+      label: 환경 (Environment)
+      description: OS, 브라우저, 버전 등
+      placeholder: "예: macOS 14.2, Chrome 120, Java 17"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 무슨 일이 있었나요? (What happened?)
+      description: 버그 현상을 간단히 설명해 주세요
+      placeholder: "버튼을 클릭했는데 ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 절차 (Steps to reproduce)
+      description: 어떤 순서로 하면 버그가 재현되나요?
+      value: |
+        1. 
+        2. 
+        3. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 기대한 동작 (Expected behavior)
+      placeholder: "정상적으로는 ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: 로그 / 스크린샷 (Logs / Screenshots)
+      description: 관련 로그나 스크린샷이 있으면 첨부해 주세요
+      render: shell
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 확인 사항
+      options:
+        - label: 기존 이슈에 동일한 버그 리포트가 없는지 확인했습니다
+          required: true
